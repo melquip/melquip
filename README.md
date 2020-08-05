@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Typescript and Cypress 🤣
 - 🥅 2020 Goals: Learn Japanese, find remote work, run marathon
 - ⚡ Fun fact: I really enjoy making things work in the best and most optimized way possible
+- :octocat: Github statistics: <img align="left" alt="melquip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melquip&show_icons=true&hide_border=true&count_private=true&hide_title=1&hide=stars&layout=compact" />
 <!-- - 👯 I’m looking to collaborate with other content creators -->
 
 ### Connect with me:
@@ -50,9 +51,6 @@
 <!-- BLOG-POST-LIST00:START -->
 <!-- BLOG-POST-LIST00:END -->
 
----
-
-<img align="left" alt="melquip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melquip&show_icons=true&hide_border=true" />
 
 [website]: https://www.melquip.com
 [twitter]: https://twitter.com/melquip7
