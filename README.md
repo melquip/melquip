@@ -1,4 +1,4 @@
-## Hi there, I'm Melqui - aka [melquip][website] 👋
+### Hi there, I'm Melqui - aka [melquip][website] 👋
 ---
 ### I'm a Developer and a Team Lead!
 - 🔭 I’m currently looking for remote positions as a [full-stack developer][website]!
