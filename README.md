@@ -42,6 +42,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Lambda School After Hours for CSEU4 - Data Structures](https://www.youtube.com/watch?v=vLt1Vy3v0wI)
+- [Lambda School After Hours for CSEU4 - Hash Tables & Blockchain](https://www.youtube.com/watch?v=Utz5_q7KXm0)
+- [Lambda School After Hours for CSEUFLEX - Datastructures](https://www.youtube.com/watch?v=ccOjJsxqIRI)
+- [Lambda School After Hours for CSEUFLEX - Binary Search Trees](https://www.youtube.com/watch?v=t6Q0yCvFxEQ)
+- [Lambda School After Hours for CSEUFLEX - Algorithms](https://www.youtube.com/watch?v=kQpHbGjLSjE)
 <!-- YOUTUBE:END -->
 
 ---
