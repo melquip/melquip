@@ -1,18 +1,18 @@
-### Hi there, I'm Melqui - aka [melquip][website] 👋
-
-## I'm a Developer and a Team Lead!
-- 🔭 I’m currently looking for remote positions as a full-stack developer[website]!
+## Hi there, I'm Melqui - aka [melquip][website] 👋
+---
+### I'm a Developer and a Team Lead!
+- 🔭 I’m currently looking for remote positions as a [full-stack developer][website]!
 - 🌱 I’m currently learning Typescript and Cypress 🤣
-<!-- - 👯 I’m looking to collaborate with other content creators -->
 - 🥅 2020 Goals: Learn Japanese, find remote work, run marathon
 - ⚡ Fun fact: I really enjoy making things work in the best and most optimized way possible
+<!-- - 👯 I’m looking to collaborate with other content creators -->
 
 ### Connect with me:
 
 [<img align="left" alt="melquip.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="melquip | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="melquip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="melquip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="melquip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
