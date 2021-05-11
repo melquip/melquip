@@ -8,13 +8,17 @@
 - :octocat: Github statistics: <br/>
 <img alt="melquip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melquip&show_icons=true&hide_border=true&count_private=true&hide_title=1&hide=stars&layout=default" />
 
-### Connect with me:
+#### My previous website:
 
-My previous website: [<img align="left" alt="melquip.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="melquip.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<br />
+
+### Connect with me:
 
 [<img align="left" alt="melquip | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="melquip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="melquip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="melquip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
 
@@ -56,8 +60,8 @@ My previous website: [<img align="left" alt="melquip.com" width="22px" src="http
 ### 👯 [Live Streams][streams]
 
 <!-- ### 📕 Latest Blog Posts -->
-<!-- BLOG-POST-LIST00:START -->
-<!-- BLOG-POST-LIST00:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 [company]: https://lastcallmedia.com/
@@ -66,3 +70,4 @@ My previous website: [<img align="left" alt="melquip.com" width="22px" src="http
 [youtube]: https://youtube.com/channel/UCmrJr6MssEwr94mh-J8gecA
 [linkedin]: https://linkedin.com/in/melquip
 [streams]: https://www.youtube.com/playlist?list=PL021D7hjFvQaNeOREDwpvcW75YVxOlj97
+[twitch]: https://www.twitch.tv/melquiplive
