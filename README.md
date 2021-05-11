@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Lambda School After Hours for CSEU4 - Data Structures](https://www.youtube.com/watch?v=vLt1Vy3v0wI)
-- [Lambda School After Hours for CSEU4 - Hash Tables & Blockchain](https://www.youtube.com/watch?v=Utz5_q7KXm0)
-- [Lambda School After Hours for CSEUFLEX - Datastructures](https://www.youtube.com/watch?v=ccOjJsxqIRI)
-- [Lambda School After Hours for CSEUFLEX - Binary Search Trees](https://www.youtube.com/watch?v=t6Q0yCvFxEQ)
-- [Lambda School After Hours for CSEUFLEX - Algorithms](https://www.youtube.com/watch?v=kQpHbGjLSjE)
+- [New Golden Age In Age Of Empires II DE Gameplay](https://www.youtube.com/watch?v=jXwbeOTrLnA)
+- [Solar System Procedural Generation with Unity3D & C#](https://www.youtube.com/watch?v=A4tos5yJElE)
+- [12 - Cristo na glória - Hinos e Cânticos](https://www.youtube.com/watch?v=82O5JU-6eh4)
+- [11 - A Bíblia diz - Hinos e Cânticos](https://www.youtube.com/watch?v=E0DzdKSqrlw)
+- [10 - Oh! Cantem ao Salvador - Hinos e Cânticos](https://www.youtube.com/watch?v=_TrJRS3MH2I)
 <!-- YOUTUBE:END -->
 
 ---
