@@ -1,23 +1,24 @@
 ### Hi there, I'm Melqui - aka [melquip][website] 👋
 ---
 ### I'm a Developer and a Team Lead!
-- 🔭 I’m currently looking for remote positions as a [full-stack developer][website]!
-- 🌱 I’m currently learning Typescript and Cypress 🤣
-- 🥅 2020 Goals: Learn Japanese, find remote work, run marathon
-- ⚡ Fun fact: I really enjoy making things work in the best and most optimized way possible
+- 🔭 I’m currently working as a remote [full-stack developer][website] at [Last Call Media, Inc.][company]!
+- 🌱 I’m currently developing a game with Unity3D and C# 🤣
+- 🥅 2021 Goals: Get a working beta version of the game. Maintain healthy work-life balance. 
+- ⚡ Fun fact: I enjoy making things work in the best and most optimized way possible (which is not always good time-wise)
 - :octocat: Github statistics: <br/>
 <img alt="melquip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melquip&show_icons=true&hide_border=true&count_private=true&hide_title=1&hide=stars&layout=default" />
 
 ### Connect with me:
 
-[<img align="left" alt="melquip.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+My previous website: [<img align="left" alt="melquip.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="melquip | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="melquip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="melquip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
-### Languages and Tools:
+### Some Languages and Tools I know:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][streams]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][streams]
@@ -59,6 +60,7 @@
 <!-- BLOG-POST-LIST00:END -->
 
 
+[company]: https://lastcallmedia.com/
 [website]: https://www.melquip.com
 [twitter]: https://twitter.com/melquip7
 [youtube]: https://youtube.com/channel/UCmrJr6MssEwr94mh-J8gecA
