@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [15 - Só por Jesus - Hinos e Cânticos](https://www.youtube.com/watch?v=H0LqSQ3EZvE)
 - [14 - Sublime graça - Hinos e Cânticos](https://www.youtube.com/watch?v=hzhZJwe4ahk)
 - [13 - Veio por mim - Hinos e Cânticos](https://www.youtube.com/watch?v=MPijcQvKjYY)
 - [New Golden Age In Age Of Empires II DE Gameplay](https://www.youtube.com/watch?v=jXwbeOTrLnA)
 - [Solar System Procedural Generation with Unity3D & C#](https://www.youtube.com/watch?v=A4tos5yJElE)
-- [12 - Cristo na glória - Hinos e Cânticos](https://www.youtube.com/watch?v=82O5JU-6eh4)
 <!-- YOUTUBE:END -->
 
 ---
