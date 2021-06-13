@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [17 - Cristo te chama - Hinos e Cânticos](https://www.youtube.com/watch?v=5btMH3r71y0)
 - [16 - Pelo Precioso Sangue - Hinos e Cânticos](https://www.youtube.com/watch?v=JmPnBrCnOuE)
 - [15 - Só por Jesus - Hinos e Cânticos](https://www.youtube.com/watch?v=H0LqSQ3EZvE)
 - [14 - Sublime graça - Hinos e Cânticos](https://www.youtube.com/watch?v=hzhZJwe4ahk)
 - [13 - Veio por mim - Hinos e Cânticos](https://www.youtube.com/watch?v=MPijcQvKjYY)
-- [New Golden Age In Age Of Empires II DE Gameplay](https://www.youtube.com/watch?v=jXwbeOTrLnA)
 <!-- YOUTUBE:END -->
 
 ---
