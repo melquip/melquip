@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [21 - Divinal Poder - Hinos e Cânticos](https://www.youtube.com/watch?v=VRuEWPVG49A)
 - [20 - Profundo amor - Hinos e Cânticos](https://www.youtube.com/watch?v=mjR6WRvOncA)
 - [19 - Águas da vida - Hinos e Cânticos](https://www.youtube.com/watch?v=sILB461Ys5U)
 - [18 - Consta da Bíblia - Hinos e Cânticos](https://www.youtube.com/watch?v=0T4aF_fTI-8)
 - [17 - Cristo te chama - Hinos e Cânticos](https://www.youtube.com/watch?v=5btMH3r71y0)
-- [16 - Pelo Precioso Sangue - Hinos e Cânticos](https://www.youtube.com/watch?v=JmPnBrCnOuE)
 <!-- YOUTUBE:END -->
 
 ---
