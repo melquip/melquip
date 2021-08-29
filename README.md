@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [28 - O Evangelho - Hinos e Cânticos](https://www.youtube.com/watch?v=jZK5Pq8L_m4)
 - [26 - Vem, filho, vem! - Hinos e Cânticos](https://www.youtube.com/watch?v=YdaYsJK2IDU)
 - [27 - Eis a nova - Hinos e Cânticos](https://www.youtube.com/watch?v=rHRLBue8QTE)
 - [25 - Uma vez mais - Hinos e Cânticos](https://www.youtube.com/watch?v=u8qXqfY5Kzg)
 - [24 - Amor sem igual - Hinos e Cânticos](https://www.youtube.com/watch?v=sRBKP8wWaRY)
-- [23 - Vinde Escutar - Hinos e Cânticos](https://www.youtube.com/watch?v=yo5Qhzx4U54)
 <!-- YOUTUBE:END -->
 
 ---
