@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [30 - Manancial de Salvação - Hinos e Cânticos](https://www.youtube.com/watch?v=ONGD6wuVhLc)
 - [29 - Fonte sem Igual - Hinos e Cânticos](https://www.youtube.com/watch?v=Zqp_YJG48cE)
 - [28 - O Evangelho - Hinos e Cânticos](https://www.youtube.com/watch?v=jZK5Pq8L_m4)
 - [26 - Vem, filho, vem! - Hinos e Cânticos](https://www.youtube.com/watch?v=YdaYsJK2IDU)
 - [27 - Eis a nova - Hinos e Cânticos](https://www.youtube.com/watch?v=rHRLBue8QTE)
-- [25 - Uma vez mais - Hinos e Cânticos](https://www.youtube.com/watch?v=u8qXqfY5Kzg)
 <!-- YOUTUBE:END -->
 
 ---
