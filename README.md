@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [33 - Todos devem saber - Hinos e Cânticos](https://www.youtube.com/watch?v=89DNTjC4pk0)
 - [32 - Só um passo - Hinos e Cânticos](https://www.youtube.com/watch?v=3Cld9NKiB7Y)
 - [31 - Cristo Quer Salvar-te - Hinos e Cânticos](https://www.youtube.com/watch?v=-2LAxl7jT9c)
 - [30 - Manancial de Salvação - Hinos e Cânticos](https://www.youtube.com/watch?v=ONGD6wuVhLc)
 - [29 - Fonte sem Igual - Hinos e Cânticos](https://www.youtube.com/watch?v=Zqp_YJG48cE)
-- [28 - O Evangelho - Hinos e Cânticos](https://www.youtube.com/watch?v=jZK5Pq8L_m4)
 <!-- YOUTUBE:END -->
 
 ---
