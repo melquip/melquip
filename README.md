@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [39 - Salvação - Hinos e Cânticos](https://www.youtube.com/watch?v=aXgP6mU-sRo)
 - [38 - Louva ao Redentor - Hinos e Cânticos](https://www.youtube.com/watch?v=7Ojacnip1ck)
 - [37 - Não vos demoreis - Hinos e Cânticos](https://www.youtube.com/watch?v=-9bA0suiZrY)
 - [36 - Amigo, Escuta - Hinos e Cânticos](https://www.youtube.com/watch?v=qRF9KURsvfs)
 - [35  - Redenção Consumada - Hinos e Cânticos](https://www.youtube.com/watch?v=S1XU9UG5QfU)
-- [34 - Liberdade - Hinos e Cânticos](https://www.youtube.com/watch?v=wv2VxLq-W0k)
 <!-- YOUTUBE:END -->
 
 ---
