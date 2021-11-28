@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to leverage your season gear for free PEN boss gear attempts - Black Desert Online](https://www.youtube.com/watch?v=li9Nst2ewPU)
+- [How to play Wizard Awakening and lose nodewar - Black Desert Online](https://www.youtube.com/watch?v=Uy3FGRTRnnI)
+- [41 - Deixa os cuidados - Hinos e Cânticos](https://www.youtube.com/watch?v=Ib-kr9FT1LA)
 - [40 - É Jesus quem Salva - Hinos e Cânticos](https://www.youtube.com/watch?v=JCwKaHUq8Pg)
 - [39 - Salvação - Hinos e Cânticos](https://www.youtube.com/watch?v=aXgP6mU-sRo)
-- [38 - Louva ao Redentor - Hinos e Cânticos](https://www.youtube.com/watch?v=7Ojacnip1ck)
-- [37 - Não vos demoreis - Hinos e Cânticos](https://www.youtube.com/watch?v=-9bA0suiZrY)
-- [36 - Amigo, Escuta - Hinos e Cânticos](https://www.youtube.com/watch?v=qRF9KURsvfs)
 <!-- YOUTUBE:END -->
 
 ---
