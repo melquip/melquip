@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [44 - Oh! Crê nesse amor! - Hinos e Cânticos](https://www.youtube.com/watch?v=NjyZ4ck0MRY)
 - [43 - Tudo Cristo já tem feito - Hinos e Cânticos](https://www.youtube.com/watch?v=wRU3Av2x6Qs)
 - [42 - Da perdição me levantou - Hinos e Cânticos](https://www.youtube.com/watch?v=oe1UzLwaMUE)
 - [How to leverage your season gear for free PEN boss gear attempts - Black Desert Online](https://www.youtube.com/watch?v=li9Nst2ewPU)
 - [How to play Wizard Awakening and lose nodewar - Black Desert Online](https://www.youtube.com/watch?v=Uy3FGRTRnnI)
-- [41 - Deixa os cuidados - Hinos e Cânticos](https://www.youtube.com/watch?v=Ib-kr9FT1LA)
 <!-- YOUTUBE:END -->
 
 ---
