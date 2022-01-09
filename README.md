@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [47 - Vida por um olhar - Hinos e Cânticos](https://www.youtube.com/watch?v=n6-49ikjWGQ)
 - [46 - Cegueira e vista - Hinos e Cânticos](https://www.youtube.com/watch?v=xbSVGXYgwfc)
 - [45 - Linda Palavra - Hinos e Cânticos](https://www.youtube.com/watch?v=JVbkg1KVU6Y)
 - [44 - Oh! Crê nesse amor! - Hinos e Cânticos](https://www.youtube.com/watch?v=NjyZ4ck0MRY)
 - [43 - Tudo Cristo já tem feito - Hinos e Cânticos](https://www.youtube.com/watch?v=wRU3Av2x6Qs)
-- [42 - Da perdição me levantou - Hinos e Cânticos](https://www.youtube.com/watch?v=oe1UzLwaMUE)
 <!-- YOUTUBE:END -->
 
 ---
