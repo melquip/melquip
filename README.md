@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [50 - O Evangelho - Hinos e Cânticos](https://www.youtube.com/watch?v=RjX40k1Ny68)
 - [49 - A luz do mundo - Hinos e Cânticos](https://www.youtube.com/watch?v=4MvqmneH96U)
 - [48 - As Águas da Salvação - Hinos e Cânticos](https://www.youtube.com/watch?v=2NtSM-fFjhI)
 - [47 - Vida por um olhar - Hinos e Cânticos](https://www.youtube.com/watch?v=n6-49ikjWGQ)
 - [46 - Cegueira e vista - Hinos e Cânticos](https://www.youtube.com/watch?v=xbSVGXYgwfc)
-- [45 - Linda Palavra - Hinos e Cânticos](https://www.youtube.com/watch?v=JVbkg1KVU6Y)
 <!-- YOUTUBE:END -->
 
 ---
