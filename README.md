@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [54 - A maravilhosa história - Hinos e Cânticos](https://www.youtube.com/watch?v=lVi8r1hyrwY)
 - [53 - O Salvador Vitorioso - Hinos e Cânticos](https://www.youtube.com/watch?v=8W7_oRF1JbE)
 - [52 - Quase Induzido - Hinos e Cânticos](https://www.youtube.com/watch?v=Q4FQcf7nB6s)
 - [51 - Régio Hóspede - Hinos e Cânticos](https://www.youtube.com/watch?v=qVuHw5b2WV8)
 - [50 - O Evangelho - Hinos e Cânticos](https://www.youtube.com/watch?v=RjX40k1Ny68)
-- [49 - A luz do mundo - Hinos e Cânticos](https://www.youtube.com/watch?v=4MvqmneH96U)
 <!-- YOUTUBE:END -->
 
 ---
