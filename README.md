@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [57 - Palavra Abençoada - Hinos e Cânticos](https://www.youtube.com/watch?v=vlrxNJ3qypY)
 - [56 - Substituição - Hinos e Cânticos](https://www.youtube.com/watch?v=-YY-fbytOUM)
 - [55 - Conta-me - Hinos e Cânticos](https://www.youtube.com/watch?v=RolWcBZmcdU)
 - [54 - A maravilhosa história - Hinos e Cânticos](https://www.youtube.com/watch?v=lVi8r1hyrwY)
 - [53 - O Salvador Vitorioso - Hinos e Cânticos](https://www.youtube.com/watch?v=8W7_oRF1JbE)
-- [52 - Quase Induzido - Hinos e Cânticos](https://www.youtube.com/watch?v=Q4FQcf7nB6s)
 <!-- YOUTUBE:END -->
 
 ---
