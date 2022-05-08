@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [64 - Preciosas Palavras - Hinos e Cânticos](https://www.youtube.com/watch?v=lRFPR_IOnX8)
 - [63 - Salvador de Pecadores - Hinos e Cânticos](https://www.youtube.com/watch?v=QVwNpUQBjCc)
 - [62 - Atribulado coração - Hinos e Cânticos](https://www.youtube.com/watch?v=1hBGRO3XkAc)
 - [61 - À Porta chamo - Hinos e Cânticos](https://www.youtube.com/watch?v=aJBmoQQGbCo)
 - [60 - Veio Jesus Cristo - Hinos e Cânticos](https://www.youtube.com/watch?v=bjfKOGQOl-M)
-- [59 - Firme na Rocha - Hinos e Cânticos](https://www.youtube.com/watch?v=fg6er5LGmkc)
 <!-- YOUTUBE:END -->
 
 ---
