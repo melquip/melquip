@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [68 - Graça Divina - Hinos e Cânticos](https://www.youtube.com/watch?v=RSQH637kyRE)
 - [67 - Tal como estás - Hinos e Cânticos](https://www.youtube.com/watch?v=ociZ07pBZPA)
 - [66 - O Amor de Deus - Hinos e Cânticos](https://www.youtube.com/watch?v=G70Okl3fOfI)
 - [65 - Amor Inefável - Hinos e Cânticos](https://www.youtube.com/watch?v=he07zQ8dzJg)
 - [64 - Preciosas Palavras - Hinos e Cânticos](https://www.youtube.com/watch?v=lRFPR_IOnX8)
-- [63 - Salvador de Pecadores - Hinos e Cânticos](https://www.youtube.com/watch?v=QVwNpUQBjCc)
 <!-- YOUTUBE:END -->
 
 ---
