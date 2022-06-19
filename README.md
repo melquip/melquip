@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [70 - Inabalável - Hinos e Cânticos](https://www.youtube.com/watch?v=RB2wSHVP0xI)
 - [69 - Expiação - Hinos e Cânticos](https://www.youtube.com/watch?v=zVfFv_S91I0)
 - [68 - Graça Divina - Hinos e Cânticos](https://www.youtube.com/watch?v=RSQH637kyRE)
 - [67 - Tal como estás - Hinos e Cânticos](https://www.youtube.com/watch?v=ociZ07pBZPA)
 - [66 - O Amor de Deus - Hinos e Cânticos](https://www.youtube.com/watch?v=G70Okl3fOfI)
-- [65 - Amor Inefável - Hinos e Cânticos](https://www.youtube.com/watch?v=he07zQ8dzJg)
 <!-- YOUTUBE:END -->
 
 ---
