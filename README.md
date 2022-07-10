@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [73 - A voz do céu - Hinos e Cânticos](https://www.youtube.com/watch?v=FiDFz8LNJA4)
 - [72 - O Bom Pastor - Hinos e Cânticos](https://www.youtube.com/watch?v=NvRUiBXagxM)
 - [71 - Desejo ouvir de Cristo - Hinos e Cânticos](https://www.youtube.com/watch?v=e4kVEEBxlJA)
 - [70 - Inabalável - Hinos e Cânticos](https://www.youtube.com/watch?v=RB2wSHVP0xI)
 - [69 - Expiação - Hinos e Cânticos](https://www.youtube.com/watch?v=zVfFv_S91I0)
-- [68 - Graça Divina - Hinos e Cânticos](https://www.youtube.com/watch?v=RSQH637kyRE)
 <!-- YOUTUBE:END -->
 
 ---
