@@ -49,11 +49,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [75 - Vinde a Jesus - Hinos e Cânticos](https://www.youtube.com/watch?v=4HbrMdftkek)
-- [74 - Jesus chama - Hinos e Cânticos](https://www.youtube.com/watch?v=JJPW_17uEp0)
-- [73 - A voz do céu - Hinos e Cânticos](https://www.youtube.com/watch?v=FiDFz8LNJA4)
-- [72 - O Bom Pastor - Hinos e Cânticos](https://www.youtube.com/watch?v=NvRUiBXagxM)
-- [71 - Desejo ouvir de Cristo - Hinos e Cânticos](https://www.youtube.com/watch?v=e4kVEEBxlJA)
+- [New Golden Age In Age Of Empires II DE Gameplay](https://www.youtube.com/watch?v=jXwbeOTrLnA)
+- [Solar System Procedural Generation with Unity3D &amp; C#](https://www.youtube.com/watch?v=A4tos5yJElE)
+- [Building 2d MUD game - Lambda School Build Week Preparation](https://www.youtube.com/watch?v=_QFf854nzaw)
+- [Daily Coding Stream #008 - Setting up an admin site for your portfolio w/ Material UI!](https://www.youtube.com/watch?v=Oqlk-f63fqA)
+- [Daily Coding Stream #007 - Setting up an admin site for your portfolio w/ Material UI!](https://www.youtube.com/watch?v=swoRQND8LM4)
 <!-- YOUTUBE:END -->
 
 ---
