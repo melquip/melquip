@@ -2,22 +2,22 @@
 ---
 ### I'm a Developer and a Team Lead!
 - 🔭 I’m currently working as a remote [full-stack developer][website] at [Last Call Media, Inc.][company]!
-- 🌱 I’m currently developing a game with Unity3D and C# 🤣
-- 🥅 2021 Goals: Get a working beta version of the game. Maintain healthy work-life balance. 
-- ⚡ Fun fact: I enjoy making things work in the best and most optimized way possible (which is not always good time-wise)
+- 🌱 I’m currently learning game development on my "free time" with Unity3D and C# 🤣
+- 🥅 Current Goals: Get a any working version of the game. Maintain healthy work-life balance.
+- ⚡ Fun fact: I enjoy making things work in the best and most optimized way possible
 - :octocat: Github statistics: <br/>
 <img alt="melquip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melquip&show_icons=true&hide_border=true&count_private=true&hide_title=1&hide=stars&layout=default" />
 
 #### My previous website:
 
-[<img align="left" alt="melquip.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="melquip.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> www.melquip.com][website]
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="melquip | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="melquip | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="melquip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="melquip | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="melquip | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 
 <br />
