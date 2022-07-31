@@ -8,7 +8,7 @@
 - :octocat: Github statistics: <br/>
 <img alt="melquip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melquip&show_icons=true&hide_border=true&count_private=true&hide_title=1&hide=stars&layout=default" />
 
-#### My previous website:
+#### My website:
 
 [<img align="left" alt="melquip.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> www.melquip.com][website]
 <br />
