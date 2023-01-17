@@ -14,4 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL021D7hjFvQaNeOREDwpvcW75YVxOlj97" #channel_id=UCmrJr6MssEwr94mh-J8gecA
+          #feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL021D7hjFvQaNeOREDwpvcW75YVxOlj97" #channel_id=UCmrJr6MssEwr94mh-J8gecA
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PL021D7hjFvQZ0QMXb73THCU8SHvdGdIv4"
