@@ -3,7 +3,7 @@
 ### I'm a Developer and a Team Lead!
 - 🔭 I’m currently working as a remote [full-stack developer][website] at [Last Call Media, Inc.][company]!
 - 🌱 I’m currently learning game development on my "free time" with Unity3D and C# 🤣
-- 🥅 Current Goals: Get a any working version of the game. Maintain healthy work-life balance.
+- 🥅 Current Goals: Get any working version of the game. Maintain healthy work-life balance.
 - ⚡ Fun fact: I enjoy making things work in the best and most optimized way possible
 <!-- - :octocat: Github statistics: <br/>
 <img alt="melquip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melquip&show_icons=true&hide_border=true&count_private=true&hide_title=1&hide=stars&layout=default" />
@@ -71,4 +71,4 @@
 [youtube]: https://youtube.com/channel/UCmrJr6MssEwr94mh-J8gecA
 [linkedin]: https://linkedin.com/in/melquip
 [streams]: https://www.youtube.com/playlist?list=PL021D7hjFvQaNeOREDwpvcW75YVxOlj97
-[twitch]: https://www.twitch.tv/melquiplive
+[twitch]: https://www.twitch.tv/melquip
