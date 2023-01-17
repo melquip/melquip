@@ -5,8 +5,9 @@
 - 🌱 I’m currently learning game development on my "free time" with Unity3D and C# 🤣
 - 🥅 Current Goals: Get a any working version of the game. Maintain healthy work-life balance.
 - ⚡ Fun fact: I enjoy making things work in the best and most optimized way possible
-- :octocat: Github statistics: <br/>
+<!-- - :octocat: Github statistics: <br/>
 <img alt="melquip's Github Stats" src="https://github-readme-stats.vercel.app/api?username=melquip&show_icons=true&hide_border=true&count_private=true&hide_title=1&hide=stars&layout=default" />
+-->
 
 #### My website:
 
