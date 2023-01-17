@@ -50,11 +50,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Solar System Procedural Generation with Unity3D &amp; C#](https://www.youtube.com/watch?v=A4tos5yJElE)
-- [Building 2d MUD game - Lambda School Build Week Preparation](https://www.youtube.com/watch?v=_QFf854nzaw)
-- [Daily Coding Stream #008 - Setting up an admin site for your portfolio w/ Material UI!](https://www.youtube.com/watch?v=Oqlk-f63fqA)
-- [Daily Coding Stream #007 - Setting up an admin site for your portfolio w/ Material UI!](https://www.youtube.com/watch?v=swoRQND8LM4)
-- [Daily Coding Stream #006 - Setting up a portfolio website w/ Node &amp; Express!](https://www.youtube.com/watch?v=t4tJiA12UY8)
+- [Devlog #0 - Project Genesis &amp; Introduction](https://www.youtube.com/watch?v=9L-haT_9Vjs)
+- [How to leverage your season gear for free PEN boss gear attempts - Black Desert Online](https://www.youtube.com/watch?v=li9Nst2ewPU)
+- [How to play Wizard Awakening and lose nodewar - Black Desert Online](https://www.youtube.com/watch?v=Uy3FGRTRnnI)
+- [New Golden Age In Age Of Empires II DE Gameplay](https://www.youtube.com/watch?v=jXwbeOTrLnA)
+- [How to make 10+ Billion Silver after Pearl Abyss Service Transfer - Black Desert Online Gameplay](https://www.youtube.com/watch?v=t7BlE3A-OGM)
 <!-- YOUTUBE:END -->
 
 ---
