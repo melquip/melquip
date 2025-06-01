@@ -50,11 +50,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Just Chilling in Orzekea - Black Desert](https://www.youtube.com/watch?v=AfOT6064Pk8)
 - [Bad Shai getting carried at Dehkia Thornwood Forest 1.5+bil/h - Black Desert Online Gameplay](https://www.youtube.com/watch?v=8zphLqicwl0)
 - [AOE2 DE Golden Data Mod Gameplay - 2 vs 2 - Age of Empires 2 Definitive Edition](https://www.youtube.com/watch?v=bSqUJ-csuxo)
 - [Devlog #0 - Project Genesis &amp; Introduction](https://www.youtube.com/watch?v=9L-haT_9Vjs)
 - [How to leverage your season gear for free PEN boss gear attempts - Black Desert Online](https://www.youtube.com/watch?v=li9Nst2ewPU)
-- [How to play Wizard Awakening and lose nodewar - Black Desert Online](https://www.youtube.com/watch?v=Uy3FGRTRnnI)
 <!-- YOUTUBE:END -->
 
 ---
