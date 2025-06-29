@@ -50,7 +50,7 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Just Chilling in Orzekea - Black Desert](https://www.youtube.com/watch?v=AfOT6064Pk8)
+- [Grinding Orzekea with 1000 DR - Black Desert](https://www.youtube.com/watch?v=AfOT6064Pk8)
 - [Bad Shai getting carried at Dehkia Thornwood Forest 1.5+bil/h - Black Desert Online Gameplay](https://www.youtube.com/watch?v=8zphLqicwl0)
 - [AOE2 DE Golden Data Mod Gameplay - 2 vs 2 - Age of Empires 2 Definitive Edition](https://www.youtube.com/watch?v=bSqUJ-csuxo)
 - [Devlog #0 - Project Genesis &amp; Introduction](https://www.youtube.com/watch?v=9L-haT_9Vjs)
